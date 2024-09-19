@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #f0f0f0;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -290,7 +290,7 @@ p {
     }
 
     .stats {
-        gap: 10px;
+        gap: 5px;
     }
 
     .stat-item {
